@@ -1,0 +1,15 @@
+# Python dependencies for AsciiVideo tool
+
+# For video frame reading and manipulation (consider one or both)
+opencv-python
+
+# For creating images from text (when outputting to standard video)
+Pillow
+
+# moviepy can also be an option for high-level video editing, uses ffmpeg
+# moviepy
+
+# No specific libraries for just running subprocess for ffmpeg,
+# but these are the main ones for image/video tasks.
+# Argparse is part of standard library.
+# Json is part of standard library.
